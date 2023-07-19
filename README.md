@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaheer Ahmed</h1>
-<h3 align="center">Front-End developer trying to be a Full-Stack Developer</h3>
+<h3 align="center">Front-End Developer trying to be a Full-Stack Developer</h3>
 <img align="right" margin-top="30vh" alt="coding" width="400" src="https://images.hdqwalls.com/download/get-back-to-code-km-1360x768.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmshaheer&label=Profile%20views&color=0e75b6&style=flat" alt="ahmshaheer" /> </p>
