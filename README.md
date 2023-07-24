@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **my FYP which is the Online Digitization Tool For Documents which help us to get structured data from any kind of document.**
 
-- 🌱 I’m currently learning: **React Native**
+- 🌱 I’m currently learning: **Typescript**
 
 - 📝 I regularly write articles on: [https://medium.com/@ahmshaheer](https://medium.com/@ahmshaheer)
 
