@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning: **Typescript**
 
+- 💼 Current Portfolio: [Shaheer Ahmed](https://ahmshaheer.github.io/Portfolio/)
+
 - 📝 I regularly write articles on: [https://medium.com/@ahmshaheer](https://medium.com/@ahmshaheer)
 
 - 💬 Ask me about: **any tech-related stuff.**
