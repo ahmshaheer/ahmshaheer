@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmshaheer" target="blank"><img src="https://img.shields.io/twitter/follow/ahmshaheer?logo=twitter&style=for-the-badge" alt="ahmshaheer" /></a> </p>
 
-- 🔭 I’m currently working on: **my FYP which is the Online Digitization Tool For Documents which help us to get structured data from any kind of document.**
+- 🔭 I’m currently working on: **E-commerce store where I am making a full web app to store profile info in Firebase and display all the data through API's.**
 
 - 🌱 I’m currently learning: **Typescript**
 
