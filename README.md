@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahmshaheer" target="blank"><img src="https://img.shields.io/twitter/follow/ahmshaheer?logo=twitter&style=for-the-badge" alt="ahmshaheer" /></a> </p>
 
-- 🔭 I’m currently working on: **E-commerce store where I am making a full web app to store profile info in Firebase and display all the data through API's.**
+## - 🔭 I’m currently working on: **E-commerce store where I am making a full web app to store profile info in Firebase and display all the data through API's.**
 
-- 🌱 I’m currently learning: **Typescript**
+- 🌱 I’m currently learning: **DevOps**
 
 - 💼 Current Portfolio: [Shaheer Ahmed](https://ahmshaheer.github.io/Portfolio/)
 
