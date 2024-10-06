@@ -8,7 +8,7 @@
 
 - 🌱 I’m into: **DevOps**
 
-- 💼 Current Portfolio: [Shaheer Ahmed](https://ahmshaheer.github.io/Portfolio/)
+- 💼 Current Working: [InnoBox, UK]
 
 - 📝 I regularly write articles on: [https://medium.com/@ahmshaheer](https://medium.com/@ahmshaheer)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **Email: ahmshaheerrr@gmail.com**
 
-- ⚡ Fun fact: **Spaces are better than tabs**
+- ⚡ Fun fact: **Why use GUI when you have Terraform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
