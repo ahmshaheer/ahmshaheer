@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shaheer Ahmed</h1>
-<h3 align="center">DevOps/Cloud Engineer</h3>
+<h3 align="center">DevOps Engineer</h3>
 <img align="right" margin-top="30vh" alt="coding" width="400" src="https://images.hdqwalls.com/download/get-back-to-code-km-1360x768.jpg">
 
 
 
 <p align="left"> <a href="https://twitter.com/ahmshaheer" target="blank"><img src="https://img.shields.io/twitter/follow/ahmshaheer?logo=twitter&style=for-the-badge" alt="ahmshaheer" /></a> </p>
 
-- 🌱 I’m currently learning: **DevOps**
+- 🌱 I’m into: **DevOps**
 
 - 💼 Current Portfolio: [Shaheer Ahmed](https://ahmshaheer.github.io/Portfolio/)
 
@@ -14,9 +14,7 @@
 
 - 💬 Ask me about: **any tech-related stuff.**
 
-- 📫 How to reach me: **Email: mxahmshaheer@gmail.com**
-
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1AOsbcND5a9bwwl5H9Bj0P78mNhF2dUTE/view?usp=sharing)
+- 📫 How to reach me: **Email: ahmshaheerrr@gmail.com**
 
 - ⚡ Fun fact: **Spaces are better than tabs**
 
